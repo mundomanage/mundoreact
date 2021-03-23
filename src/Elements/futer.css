@@ -1,0 +1,11 @@
+.site-footer {
+    background: linear-gradient(to right, #2e3192, #402e99);;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    color: white;
+}
+
+.copyright-text {
+    margin: 0;
+}
